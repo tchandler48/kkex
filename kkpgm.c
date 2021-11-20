@@ -10,7 +10,7 @@ USERID KICKS
     #include <time.h>
 
 #include "dfhaid.h"
-#include "kkmsd.h"
+#include "kkmsd.h"		/* symbolic map */
 
       void Scr_out(void);
       void Clear_pr(void);
